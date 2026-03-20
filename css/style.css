@@ -77,21 +77,18 @@ border-radius:20px;
 section img {
 width:50px;
 height:50px;
-background:#fff;
 padding:20px;
 margin-right:20px;
 margin-bottom:20px;
 }
 
 section img:hover {
-background:#999;
 padding:20px;
 margin-right:20px;
 transition:0.3s;
 }
 
 section img:active {
-background:#555;
 padding:20px;
 margin-right:20px;
 }
@@ -107,6 +104,8 @@ border-bottom:1px dashed #87b999;
 cursor:pointer;
 transition:0.3s;
 }
+
+.icon { background:#fff; }
 
 #footer {
 color:#333;
